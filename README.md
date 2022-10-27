@@ -21,7 +21,7 @@ _We used the following libraries in our notebook:_
 
 ## Usage
 
-The data used to create the models and evualtions is located in the 'Resources' folder of this repository.
+The data used to create the models and evaluations is located in the 'Resources' folder of this repository.
 
 
 
@@ -56,7 +56,7 @@ ___
 
 
 What impact resulted from increasing or decreasing the training window? 
-* You can see that buy incerasing the trainging window we increased the accruracy of the model.
+* You can see that by incerasing the trainging window we increased the accruracy of the model.
 
 
 ---
